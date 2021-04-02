@@ -9,14 +9,6 @@ package gitproj;
  *
  * @author geoka
  */
-public class GitProj {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("version 1");
-    }
+public class Gitpro2 {
     
 }
